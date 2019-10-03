@@ -1,2 +1,2 @@
 # Robo-Search
-Search Engine for Robots ;)
+A react-app to display random animated robo images. 
